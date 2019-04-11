@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Squidex.ClientLibrary" Version="2.9.0" />
+  </ItemGroup>
+
 </Project>
